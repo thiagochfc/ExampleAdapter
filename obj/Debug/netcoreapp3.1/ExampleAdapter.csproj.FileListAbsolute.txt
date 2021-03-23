@@ -1,0 +1,13 @@
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/bin/Debug/netcoreapp3.1/ExampleAdapter
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/bin/Debug/netcoreapp3.1/ExampleAdapter.deps.json
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/bin/Debug/netcoreapp3.1/ExampleAdapter.runtimeconfig.json
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/bin/Debug/netcoreapp3.1/ExampleAdapter.runtimeconfig.dev.json
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/bin/Debug/netcoreapp3.1/ExampleAdapter.dll
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/bin/Debug/netcoreapp3.1/ExampleAdapter.pdb
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/obj/Debug/netcoreapp3.1/ExampleAdapter.csprojAssemblyReference.cache
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/obj/Debug/netcoreapp3.1/ExampleAdapter.AssemblyInfoInputs.cache
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/obj/Debug/netcoreapp3.1/ExampleAdapter.AssemblyInfo.cs
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/obj/Debug/netcoreapp3.1/ExampleAdapter.csproj.CoreCompileInputs.cache
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/obj/Debug/netcoreapp3.1/ExampleAdapter.dll
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/obj/Debug/netcoreapp3.1/ExampleAdapter.pdb
+/home/thiago/Documentos/projects/csharp/ExampleAdapter/obj/Debug/netcoreapp3.1/ExampleAdapter.genruntimeconfig.cache
